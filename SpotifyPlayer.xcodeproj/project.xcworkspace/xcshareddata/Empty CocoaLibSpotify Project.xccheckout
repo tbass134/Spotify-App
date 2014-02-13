@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>12F3175F-98DE-47A8-BD30-F766C9A4D76E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Empty CocoaLibSpotify Project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>574A1016-D22D-415B-ABE8-2E0794F41E07</key>
+		<string>https://bitbucket.org/thung/ensmbl.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Spotify App/Empty CocoaLibSpotify Project/Empty CocoaLibSpotify Project.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>574A1016-D22D-415B-ABE8-2E0794F41E07</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/thung/ensmbl.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>574A1016-D22D-415B-ABE8-2E0794F41E07</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>574A1016-D22D-415B-ABE8-2E0794F41E07</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PROJECTS LOCAL</string>
+		</dict>
+	</array>
+</dict>
+</plist>
